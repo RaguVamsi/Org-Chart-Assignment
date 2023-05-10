@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3bb96c31.css",
+    "main.js": "/static/js/main.6b87b03d.js",
+    "static/media/LindaMay.jpg": "/static/media/LindaMay.4a87d9b5eeafc1a6b80a.jpg",
+    "static/media/KirkDouglas.jpg": "/static/media/KirkDouglas.9381980c4a8083275fcb.jpg",
+    "static/media/MarkHill.jpg": "/static/media/MarkHill.d22734ae7341d095ebe9.jpg",
+    "static/media/JoeLinux.jpg": "/static/media/JoeLinux.fc28102532afb35288ee.jpg",
+    "static/media/MaryJohnson.jpg": "/static/media/MaryJohnson.3132a8c52a2b773451f8.jpg",
+    "static/media/RonBlimquist.jpg": "/static/media/RonBlimquist.b15a1eab64367340a18a.jpg",
+    "static/media/JohnGreen.jpg": "/static/media/JohnGreen.0099f6753c5dd54b05a4.jpg",
+    "static/media/AliceLopez.jpg": "/static/media/AliceLopez.aab4e6f86f0d108f6b92.jpg",
+    "static/media/MichaelRubin.jpg": "/static/media/MichaelRubin.16751c7aad1e1cc44f6a.jpg",
+    "static/media/EricaReel.jpg": "/static/media/EricaReel.586ad21bcf16eca6644a.jpg",
+    "index.html": "/index.html",
+    "main.3bb96c31.css.map": "/static/css/main.3bb96c31.css.map",
+    "main.6b87b03d.js.map": "/static/js/main.6b87b03d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb96c31.css",
+    "static/js/main.6b87b03d.js"
+  ]
+}

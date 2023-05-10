@@ -1,0 +1,4 @@
+.grid {
+    display: flex;
+    grid-column: 2;
+}
