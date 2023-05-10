@@ -34,17 +34,18 @@ MirageJs (https://miragejs.com/)
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="960" alt="image" src="https://github.com/RaguVamsi/Org-Chart-Assignment/assets/107539107/b05041b7-e666-4e9b-8077-01d18b803888">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="960" alt="image" src="https://github.com/RaguVamsi/Org-Chart-Assignment/assets/107539107/815a8258-0b0f-4516-a929-d3db5ce2d556">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="960" alt="image" src="https://github.com/RaguVamsi/Org-Chart-Assignment/assets/107539107/8aaa9d0d-ecb4-43fa-9152-a3b7d6ce8716">
 
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+## Logo
+<img width="236" alt="image" src="https://github.com/RaguVamsi/Org-Chart-Assignment/assets/107539107/13dbf0f6-9e2b-4f38-bbbb-662797553dd0">
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ragu-portfol.web.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ragu-vamsi-960420213/)
 
